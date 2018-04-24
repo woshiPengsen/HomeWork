@@ -1,4 +1,4 @@
-package team.pku.ss.pengsen.fifth;
+package team.pku.ss.pengsen.fifthweek;
 import java.util.*;
 /**
  * 冒泡排序
