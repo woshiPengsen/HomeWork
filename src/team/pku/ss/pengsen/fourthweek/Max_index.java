@@ -13,7 +13,7 @@ import java.util.*;
 
 //自己
     //麻烦
-public class Main{
+public class Max_index{
     private static Scanner input;
 
     public static void main(String[] args) {
